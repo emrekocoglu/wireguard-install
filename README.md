@@ -1,5 +1,5 @@
 # Modifications
-A two-arguments version of the script for use in a Docker container, only one user
+A two-arguments version of the script for use in a Docker container, only one user, internal network with no routing
 
 
 
